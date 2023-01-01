@@ -1,7 +1,7 @@
 The main aim of this article is to perform age and gender detection through the given data set using deep learning model.
 
 
-<h3>pick this file in github:</h3><br>
+<h3>pick this file in github:</h3>
 <span>opencv_face_detector.pbtxt</span><br>
 <span>opencv_face_detector_uint8.pb</span><br>
 <span>age_deploy.prototxt</span><br>
